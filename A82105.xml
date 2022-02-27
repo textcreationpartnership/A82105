@@ -1,0 +1,174 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Declaration of His Highnesse the Duke of Yorke his going away from St. Jamses. [sic] And concerning the Right Honourable the Earle of Northumberland, from whom he went. April 22. 1648. Imprimatur Gil. Mabbot.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82105</idno>
+            <idno type="STC">Wing D611</idno>
+            <idno type="STC">Thomason E436_19</idno>
+            <idno type="STC">ESTC R21363</idno>
+            <idno type="EEBO-CITATION">99871413</idno>
+            <idno type="PROQUEST">99871413</idno>
+            <idno type="VID">161617</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82105)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161617)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 69:E436[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Declaration of His Highnesse the Duke of Yorke his going away from St. Jamses. [sic] And concerning the Right Honourable the Earle of Northumberland, from whom he went. April 22. 1648. Imprimatur Gil. Mabbot.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>by Robert Ibbitson in Smithfield, neere the Queens-head tavern,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Northumberland, Algernon Percy, --  Earl of, 1602-1668.</term>
+               <term>James --  II, --  King of England, 1633-1701 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161617:1" rendition="simple:additions"/>
+            <p>A DECLARATION OF HIS Highneſſe the DUKE OF YORKE His going away from S<hi rend="sup">t.</hi> 
+               <hi>JAMSES.</hi> AND Concerning the Right Honourable the Earle of <hi>NORTH<g ref="char:V">Ʋ</g>MBERLAND,</hi> from whom he went.</p>
+            <floatingText type="license" xml:lang="lat" subtype="imprimatur">
+               <body>
+                  <opener>
+                     <dateline>
+                        <date>April 22. 1648.</date>
+                     </dateline>
+                  </opener>
+                  <p>
+                     <hi>Imprimatur</hi>
+                  </p>
+                  <closer>
+                     <signed>Gil. Mabbot.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Printed at <hi>London</hi> by <hi>Robert Ibbitſon</hi> in <hi>Smithfield,</hi> neere the Queens-head Tavern. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:161617:2"/>
+            <pb n="1" facs="tcp:161617:2"/>
+            <head>A <hi>DECLARATION</hi> OF His HIGHNESSE the DUKE OF YORKE His going away from St. <hi>Jamſes.</hi>
+            </head>
+            <p>ON Friday night, <hi>April</hi> 21. 1648. The Right Honourable the Earl of <hi>Northum<g ref="char:EOLhyphen"/>berland,</hi> having been forth, returned to Saint <hi>Jamſes</hi> about eight a Clocke at night, and found the Duke of <hi>York</hi> with his Brother in his chamber.</p>
+            <p>His Lordſhip waiting upon his High<g ref="char:EOLhyphen"/>neſſe, entertained ſome diſcourſe with him
+<pb n="2" facs="tcp:161617:3"/>for a time; and afterwards withdrew.</p>
+            <p>The Duke (after that) went into his ſiſters chamber, and ſpent ſome time in mirth with the young Ladies.</p>
+            <p>Betweene nine and ten of the clocke, The Earle of <hi>Northumberland</hi> went to his highneſſe Chamber, to ſee him go to bed ac<g ref="char:EOLhyphen"/>cording as his Lordſhip uſed to doe about that time.</p>
+            <p>And finding the Duke not there, ſuppoſ<g ref="char:EOLhyphen"/>ing that hee might bee playing with the Gentlewomen, as he uſed to doe His Lord<g ref="char:EOLhyphen"/>ſhip ſent Mr. <hi>Sammon</hi> to ſee for the Duke.</p>
+            <p>But His Highneſſe not comming, The Earle ſent another Meſſenger, and a third, and ſo more, to looke in all places, ſuppoſ<g ref="char:EOLhyphen"/>ing that he might perhaps have hid himſelfe ſomewhere; as he had often done in ſport, to make them looke for him.</p>
+            <p>Yet after all this no news could be brought to certifie where the Duke was,</p>
+            <p>Then his Lordſhip made ſtrict inquiry who had ſeene him laſt, and where hee was.</p>
+            <p>And is was advertiſed that he was within
+<pb n="3" facs="tcp:161617:3"/>little more then halfe an houre before, with the Gentlewomen playing and very mer<g ref="char:EOLhyphen"/>ry.</p>
+            <p>It was alſo further certified, That a little before that time hee had gone downe the backe ſtaires, and was paſſing the entry to<g ref="char:EOLhyphen"/>wards the garden, where Mr. <hi>Howard,</hi> and Mr. <hi>Owen,</hi> two of his Gentlemen that wait<g ref="char:EOLhyphen"/>ed on him, then were talking.</p>
+            <p>And that the Duke ſeeing of them there did preſently returne up the ſtaires againe.</p>
+            <p>Whereby it was (after he was gone) ſup<g ref="char:EOLhyphen"/>poſed that he came then downe with an in<g ref="char:EOLhyphen"/>tent to have gone away, but finding thoſe Gentlemen there, was prevented.</p>
+            <p>It was alſo advertized that the Duke had that evening called to the Gardenner for the key of a backe door, that was a private way into the Garden, very ſeldome known to be openned, whereupon it was ſuppoſed that he went away that way.</p>
+            <p>Hereupon ſearch was made in the Gar<g ref="char:EOLhyphen"/>dens, and all about the Parke, but none could give any Intelligence at all concerning him.</p>
+            <p>But in the Garden, by the ſaid private
+<pb n="4" facs="tcp:161617:4"/>doore, There were the prints of mens feete which ſeemed to have lately troden there, And there were ſome of the feete ſeemed ve<g ref="char:EOLhyphen"/>ry ſmall, which they ſuppoſed to bee the Dukes treading.</p>
+            <p>Theſe feetings were traſed through the Garden, and every way over the Parke, And on the other ſide of the parke towards the <hi>Cherry-garden,</hi> And they found on the other ſide of the Parke (againſt the Garden) the like prints of ſuch feetings as were at the firſt door which was ſuſpected in the Gar<g ref="char:EOLhyphen"/>den. But they could here no further which way His Highneſſe ſhould be gone.</p>
+            <p>Then the Earle of <hi>Northumberland</hi> ſent that night to all places from whence he could ſuppoſe hee might expect aſſiſtance, to the finding and bringing of the Duke back.</p>
+            <p>His Lordſhip ſent a Meſſenger to the Speaker of the Houſe of Commons, and another Meſſenger to the Lord Generall; He ſent alſo to the Earle of <hi>Warwick,</hi> To the Lord Mayor of the City of <hi>London,</hi> And to Collonell <hi>Barkeſtead,</hi> And Colonell <hi>Rich,</hi> That ſo hee might have all the aſſiſtance
+<pb n="5" facs="tcp:161617:4"/>which might bee for the looking after him</p>
+            <p>His Lordſhip (alſo) cauſed a ſearch to be made of his Servants, and the Gentlemen, and all perſons of the houſe to ſee who were miſſing, but found not one wanting.</p>
+            <p>The Groome was called and ſearch of the Horſes made, and there were not one Horſe miſſing, but all ſafe in the Stables.</p>
+            <p>Alſo concerning the Duke, It was found that Hee went away without Cloake, or Coate, and in His Hoſe and Shooes.</p>
+            <p>And although His Lordſhip had had as much ſtrictneſſe as could be, to keep ſuſpect<g ref="char:EOLhyphen"/>ed perſons from comming to the Duke, yet he made inquiry what perſons they could thinke of that might be ſuſpected, that had lately beene with Him ſome few dayes be<g ref="char:EOLhyphen"/>fore.</p>
+            <p>And upon inquiry, no account could be given of any that they could ſuſpect.</p>
+            <p>Yet His Lordſhip was acquainted that there were (the day before) as the Duke was croſſing the way, two poor men that had kiſ<g ref="char:EOLhyphen"/>ſed his highnes hand, ſeeming to be very poor
+<pb n="6" facs="tcp:161617:5"/>mean fellowes; But they had not time to ſpeak much to him; only ſome few words, the diſcourſe being ſo ſhort, that (it was thought) they could not have time to doe a<g ref="char:EOLhyphen"/>ny thing in relation to this deſign, but what thoſe men were it is not known.</p>
+            <p>Herein his Lordſhip endeavoured all that poſſibly he could for finding out the buſines, but could not be ſatisfied in any thing.</p>
+            <p>Now it is ſo, that the Earl of <hi>Northumber<g ref="char:EOLhyphen"/>land</hi> did never undertake to be anſwerable for the Duke; And ſo much his Lordſhip did declare to the Parliament, upon the former intercepted Letters, which diſcovered his in<g ref="char:EOLhyphen"/>tentions to make an eſcape before.</p>
+            <p>But according to the deſires of the Houſes his Lordſhip hath uſed the utmoſt of his en<g ref="char:EOLhyphen"/>deavours to prevent it.</p>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
